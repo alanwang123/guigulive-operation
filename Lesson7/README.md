@@ -6,3 +6,7 @@
 ### 第一种部署方案
  REMIX + METAMASK + MYETHERWALLET 
  
+### 第二种部署方案
+ infura + truffle 
+
+ truffle migrate --reset --network ropsten
